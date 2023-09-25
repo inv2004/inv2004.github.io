@@ -35,7 +35,7 @@ I did a simple thing: I linked tags from the same offer, where center force of a
 
 [cosmograph.app](http://cosmograph.app/) proved that our IT is alive and rotates it's orbit around SQL
 
-![image](https://github.com/inv2004/inv2004.github.io/assets/4949069/4cae6655-2661-4588-859f-a323e428efe2)
+![image](https://raw.githubusercontent.com/inv2004/inv2004.github.io/main/it_trends_and_rates_per_hour_check_your_rate.gif)
 
 Illustration: *IT is alive*
 
